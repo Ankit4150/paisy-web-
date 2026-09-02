@@ -17,6 +17,7 @@ const cards: Card[] = [
     desc: "Open a balance from anywhere, regardless of residency. Receive transfers and hold funds that move as freely as you do.",
     linkLabel: "USD ACCOUNTS",
     href: "#",
+     image: "/assets/showcase/store -3.png",
     stat: { icon: "🇺🇸", value: "8,888.42", caption: "Virtual Account · ****7891" },
   },
   {
@@ -25,7 +26,7 @@ const cards: Card[] = [
     desc: "Turn idle cash into active capital. Earn a competitive APY plus bonus rewards with risk-adjusted vaults.",
     linkLabel: "PAISY EARN",
     href: "#",
-    image: "/assets/showcase/earn.webp",
+    image: "/assets/showcase/earn-2.png",
     stat: { icon: "$", value: "142.07", caption: "Current APY 5.6%" },
   },
   {
