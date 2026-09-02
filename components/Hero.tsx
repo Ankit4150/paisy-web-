@@ -81,10 +81,7 @@ export default function Hero() {
             Visa is accepted, and transfers that move at the speed of the internet.
           </p>
 
-          <div className="hero-actions">
-            <a id="get-app" href="#" className="hero-primary">Get the App <span>→</span></a>
-            <a href="#how-it-works" className="hero-secondary">See how it works</a>
-          </div>
+          
         </div>
 
         <div className="hero-device-wrap">
