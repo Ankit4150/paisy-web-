@@ -100,9 +100,10 @@ body {
 /* Reference-matched home hero */
 .hero-section {
   position: relative;
-  min-height: 118svh;
+ min-height: 100svh;
   overflow: hidden;
   display: flex;
+  padding-top: 76px;
   align-items: center;
   background:
     radial-gradient(circle at 67% 58%, rgba(59, 130, 246, 0.20), transparent 29%),

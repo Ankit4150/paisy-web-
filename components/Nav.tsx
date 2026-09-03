@@ -9,7 +9,7 @@ const links = [
 
 export default function Nav() {
   return (
-    <header className="sticky top-0 z-50 border-b border-white/[0.06] bg-base/80 backdrop-blur-md">
+    <header className="fixed top-0 left-0 right-0 z-50 border-b border-white/[0.06] bg-base/80 backdrop-blur-md">
       <div className="mx-auto max-w-7xl px-6 lg:px-10 h-[76px] flex items-center justify-between">
         <a href="#top" className="flex items-center gap-2.5 shrink-0">
           <Image
